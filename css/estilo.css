@@ -1,0 +1,16 @@
+.tamanho {
+    font-size: 50px;
+}
+#coramarela {
+    background-color: yellow;
+}
+.corvermelha, h2 {
+    background-color: blue;
+    color: white;
+}
+
+ol { font-size: 30px;}
+
+div p strong a {
+    
+}
