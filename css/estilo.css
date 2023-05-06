@@ -11,6 +11,12 @@
 
 ol { font-size: 30px;}
 
-div p strong a {
-    
+.destaque p { 
+    font-size: 40px;
 }
+
+#cabecalho div h1 {
+    color: red;
+}
+
+#conteudo ul li a 
