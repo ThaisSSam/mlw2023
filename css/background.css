@@ -1,0 +1,20 @@
+.bgcolor {
+    background-color: burlywood;
+    height: 50px;
+    width: 500px;
+}
+
+.bgimage {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYo4kJDdCQyuT9xKYzjRNOM8QjJlBm8HDIinf0425OWf7vL0DdkEFZ-7ZnEZO8V5eQANw&usqp=CAU);
+    background-repeat: no-repeat;
+    height: 200px;
+    background-size: contain;
+}
+/*.bgimage p {
+    background-color: blueviolet;
+
+}*/
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgBzxKq7P3gZbAVIvlAkCL_LtBvy8FeQ7FQ&usqp=CAU);
+    background-attachment: fixed;
+}
